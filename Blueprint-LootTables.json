@@ -178,15 +178,15 @@
         },
         {
           "definition": "Blueprints.Common",
-          "weight": 10.0
+          "weight": 5.0
         },
         {
           "definition": "Blueprints.Uncommon",
-          "weight": 10.0
+          "weight": 1.0
         },
         {
           "definition": "LootSpawn.BarrelGarbage",
-          "weight": 20.0
+          "weight": 5.0
         }
       ],
       "items": []
