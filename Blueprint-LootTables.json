@@ -393,8 +393,48 @@
         },
         {
           "definition": "Sheetmetal",
+          "weight": 10.0
+        },
+        {
+          "definition": "Gears",
           "weight": 2.0
         },
+        {
+          "definition": "Techparts",
+          "weight": 1.0
+        },        
+        {
+          "definition": "Tarp",
+          "weight": 28.0
+        },
+        {
+          "definition": "Metalspring",
+          "weight": 15.0
+        },
+        {
+          "definition": "Sewingkit",
+          "weight": 28.0
+        },
+        {
+          "definition": "Rope",
+          "weight": 15.0
+        },
+        {
+          "definition": "Metalpipe",
+          "weight": 10.0
+        },
+        {
+          "definition": "Riflebody",
+          "weight": 2.0
+        },
+        {
+          "definition": "Smgbody",
+          "weight": 2.0
+        },
+        {
+          "definition": "Semibody",
+          "weight": 15.0
+        }, 
         {
           "definition": "Nothing",
           "weight": 50.0
@@ -409,6 +449,116 @@
         {
           "itemName": "roadsigns",
           "minAmount": 2,
+          "maxAmount": 4
+        }
+      ]
+    },
+    "Gears": {
+      "itemName": "Gears",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Gears",
+          "minAmount": 1,
+          "maxAmount": 4
+        }
+      ]
+    },
+    "Techparts": {
+      "itemName": "Techparts",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Techparts",
+          "minAmount": 1,
+          "maxAmount": 2
+        }
+      ]
+    },
+    "Tarp": {
+      "itemName": "Tarp",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Tarp",
+          "minAmount": 1,
+          "maxAmount": 4
+        }
+      ]
+    },
+    "Metalspring": {
+      "itemName": "Metalspring",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Metalspring",
+          "minAmount": 1,
+          "maxAmount": 2
+        }
+      ]
+    },
+    "Rope": {
+      "itemName": "Rope",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Rope",
+          "minAmount": 2,
+          "maxAmount": 4
+        }
+      ]
+    },
+    "Metalpipe": {
+      "itemName": "Metalpipe",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Metalpipe",
+          "minAmount": 1,
+          "maxAmount": 3
+        }
+      ]
+    },
+    "Riflebody": {
+      "itemName": "Riflebody",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Riflebody",
+          "minAmount": 1,
+          "maxAmount": 1
+        }
+      ]
+    },
+    "Smgbody": {
+      "itemName": "Smgbody",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Smgbody",
+          "minAmount": 1,
+          "maxAmount": 1
+        }
+      ]
+    },
+    "Semibody": {
+      "itemName": "Semibody",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Semibody",
+          "minAmount": 1,
+          "maxAmount": 1
+        }
+      ]
+    },
+    "Sewingkit": {
+      "itemName": "Sewingkit",
+      "children": [],
+      "items": [
+        {
+          "itemName": "Sewingkit",
+          "minAmount": 1,
           "maxAmount": 4
         }
       ]
