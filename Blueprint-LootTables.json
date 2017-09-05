@@ -126,11 +126,11 @@
         },
         {
           "definition": "Blueprints.Rare",
-          "weight": 5.0
+          "weight": 1.0
         },
         {
           "definition": "Blueprints.VeryRare",
-          "weight": 3.0
+          "weight": 0.1
         },
         {
           "definition": "Collection.Attire",
@@ -174,7 +174,7 @@
         },
         {
           "definition": "Items.Uncommon",
-          "weight": 10.0
+          "weight": 1.0
         },
         {
           "definition": "Blueprints.Common",
@@ -182,7 +182,7 @@
         },
         {
           "definition": "Blueprints.Uncommon",
-          "weight": 1.0
+          "weight": 0.1
         },
         {
           "definition": "LootSpawn.BarrelGarbage",
@@ -228,11 +228,11 @@
         },
         {
           "definition": "Blueprints.Rare",
-          "weight": 2.0
+          "weight": 0.5
         },
         {
           "definition": "Blueprints.VeryRare",
-          "weight": 0.75
+          "weight": 0.1
         },
         {
           "definition": "Crossbow",
@@ -1193,15 +1193,15 @@
       "children": [
         {
           "definition": "Collection.Rifles",
-          "weight": 30.0
+          "weight": 10.0
         },
         {
           "definition": "Bow And Arrow",
-          "weight": 22.0
+          "weight": 50.0
         },
         {
           "definition": "Items.Common.Weapon",
-          "weight": 22.0
+          "weight": 25.0
         }
       ],
       "items": []
@@ -1227,7 +1227,7 @@
         },
         {
           "definition": "Blueprints.VeryRare",
-          "weight": 1.0
+          "weight": 0.1
         },
         {
           "definition": "Items.Common",
@@ -1239,11 +1239,11 @@
         },
         {
           "definition": "Items.Rare",
-          "weight": 5.0
+          "weight": 1.0
         },
         {
           "definition": "Items.VeryRare",
-          "weight": 2.0
+          "weight": 0.1
         }
       ],
       "items": []
