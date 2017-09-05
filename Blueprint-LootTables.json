@@ -92,11 +92,11 @@
         },
         {
           "definition": "Blueprints.Rare",
-          "weight": 0.1
+          "weight": 1.0
         },
         {
           "definition": "Blueprints.VeryRare",
-          "weight": 0.05
+          "weight": 0.5
         },
         {
           "definition": "Crossbow",
@@ -174,7 +174,7 @@
         },
         {
           "definition": "Items.Uncommon",
-          "weight": 1.0
+          "weight": 10.0
         },
         {
           "definition": "Blueprints.Common",
@@ -182,7 +182,7 @@
         },
         {
           "definition": "Blueprints.Uncommon",
-          "weight": 0.1
+          "weight": 1.0
         },
         {
           "definition": "LootSpawn.BarrelGarbage",
