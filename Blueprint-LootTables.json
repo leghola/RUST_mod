@@ -161,7 +161,7 @@
         },
         {
           "definition": "Blueprints.VeryRare",
-          "weight": 3.0
+          "weight": 1.0
         },
         {
           "definition": "Collection.Attire",
@@ -209,11 +209,11 @@
         },
         {
           "definition": "Blueprints.Common",
-          "weight": 10.0
+          "weight": 5.0
         },
         {
           "definition": "Blueprints.Uncommon",
-          "weight": 10.0
+          "weight": 1.0
         },
         {
           "definition": "LootSpawn.BarrelGarbage",
@@ -427,31 +427,31 @@
           "weight": 2.0
         },
         {
-          "definition": "Gears",
+          "definition": "gears",
           "weight": 2.0
         },
         {
-          "definition": "Tarp",
+          "definition": "tarp",
           "weight": 30.0
         },
         {
-          "definition": "Metalspring",
+          "definition": "metalspring",
           "weight": 2.0
         },
         {
-          "definition": "Sewingkit",
+          "definition": "sewingkit",
           "weight": 30.0
         },
         {
-          "definition": "Rope",
+          "definition": "rope",
           "weight": 15.0
         },
         {
-          "definition": "Metalpipe",
+          "definition": "metalpipe",
           "weight": 10.0
         },
         {
-          "definition": "Semibody",
+          "definition": "semibody",
           "weight": 10.0
         },
         {
@@ -472,78 +472,67 @@
         }
       ]
     },
-    "Gears": {
-      "itemName": "Gears",
+    "gears": {
+      "itemName": "gears",
       "children": [],
       "items": [
         {
-          "itemName": "Gears",
+          "itemName": "gears",
           "minAmount": 1,
           "maxAmount": 2
         }
       ]
     },
-    "Techparts": {
-      "itemName": "Techparts",
+    "metalspring": {
+      "itemName": "metalspring",
       "children": [],
       "items": [
         {
-          "itemName": "Techparts",
+          "itemName": "metalspring",
           "minAmount": 1,
           "maxAmount": 2
         }
       ]
     },
-    "Metalspring": {
-      "itemName": "Metalspring",
+    "sewingkit": {
+      "itemName": "sewingkit",
       "children": [],
       "items": [
         {
-          "itemName": "Metalspring",
-          "minAmount": 1,
-          "maxAmount": 2
-        }
-      ]
-    },
-    "Sewingkit": {
-      "itemName": "Sewingkit",
-      "children": [],
-      "items": [
-        {
-          "itemName": "Sewingkit",
+          "itemName": "sewingkit",
           "minAmount": 1,
           "maxAmount": 4
         }
       ]
     },
-    "Rope": {
-      "itemName": "Rope",
+    "rope": {
+      "itemName": "rope",
       "children": [],
       "items": [
         {
-          "itemName": "Rope",
+          "itemName": "rope",
           "minAmount": 1,
           "maxAmount": 3
         }
       ]
     },
-    "Metalpipe": {
-      "itemName": "Metalpipe",
+    "metalpipe": {
+      "itemName": "metalpipe",
       "children": [],
       "items": [
         {
-          "itemName": "Metalpipe",
+          "itemName": "metalpipe",
           "minAmount": 1,
           "maxAmount": 3
         }
       ]
     },
-    "Semibody": {
-      "itemName": "Semibody",
+    "semibody": {
+      "itemName": "semibody",
       "children": [],
       "items": [
         {
-          "itemName": "Semibody",
+          "itemName": "semibody",
           "minAmount": 1,
           "maxAmount": 1
         }
