@@ -431,7 +431,7 @@
           "weight": 2.0
         },
         {
-          "definition": "tarp",
+          "definition": "Tarp",
           "weight": 30.0
         },
         {
@@ -505,12 +505,12 @@
         }
       ]
     },
-    "tarp": {
-      "itemName": "tarp",
+    "Tarp": {
+      "itemName": "Tarp",
       "children": [],
       "items": [
         {
-          "itemName": "tarp",
+          "itemName": "Tarp",
           "minAmount": 1,
           "maxAmount": 2
         }
