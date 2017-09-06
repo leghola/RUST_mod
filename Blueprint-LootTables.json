@@ -353,6 +353,18 @@
           "definition": "TurretParts",
           "weight": 10.0
         }
+        {
+          "definition": "Items.Rare",
+          "weight": 5.0
+        },
+        {
+          "definition": "Items.Uncommon",
+          "weight": 10.0
+        },
+        {
+          "definition": "Collection.Rifles",
+          "weight": 5.0
+        },
       ],
       "items": []
     },
