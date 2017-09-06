@@ -342,10 +342,6 @@
           "weight": 50.0
         },
         {
-          "definition": "BasicWeapons",
-          "weight": 50.0
-        },
-        {
           "definition": "TurretParts",
           "weight": 10.0
         },
