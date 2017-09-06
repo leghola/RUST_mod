@@ -505,6 +505,17 @@
         }
       ]
     },
+    "tarp": {
+      "itemName": "tarp",
+      "children": [],
+      "items": [
+        {
+          "itemName": "tarp",
+          "minAmount": 1,
+          "maxAmount": 2
+        }
+      ]
+    },
     "rope": {
       "itemName": "rope",
       "children": [],
