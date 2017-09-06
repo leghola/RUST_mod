@@ -338,10 +338,6 @@
       "itemName": "LootSpawn.BlackBox",
       "children": [
         {
-          "definition": "Tools",
-          "weight": 50.0
-        },
-        {
           "definition": "ArmorBasic",
           "weight": 50.0
         },
