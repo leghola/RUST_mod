@@ -428,7 +428,7 @@
         },
         {
           "definition": "Sheetmetal",
-          "weight": 2.0
+          "weight": 15.0
         },
         {
           "definition": "gears",
@@ -471,8 +471,8 @@
       "items": [
         {
           "itemName": "roadsigns",
-          "minAmount": 2,
-          "maxAmount": 4
+          "minAmount": 1,
+          "maxAmount": 2
         }
       ]
     },
@@ -505,7 +505,7 @@
         {
           "itemName": "sewingkit",
           "minAmount": 1,
-          "maxAmount": 4
+          "maxAmount": 2
         }
       ]
     },
@@ -538,7 +538,7 @@
         {
           "itemName": "metalpipe",
           "minAmount": 1,
-          "maxAmount": 3
+          "maxAmount": 2
         }
       ]
     },
@@ -1410,8 +1410,8 @@
       "items": [
         {
           "itemName": "metal.refined",
-          "minAmount": 5,
-          "maxAmount": 5
+          "minAmount": 2,
+          "maxAmount": 4
         }
       ]
     },
@@ -1629,8 +1629,8 @@
       "items": [
         {
           "itemName": "blueprint_fragment",
-          "minAmount": 30,
-          "maxAmount": 80
+          "minAmount": 5,
+          "maxAmount": 25
         }
       ]
     },
