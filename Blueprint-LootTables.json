@@ -1061,8 +1061,8 @@
       "items": [
         {
           "itemName": "metal.refined",
-          "minAmount": 50,
-          "maxAmount": 50
+          "minAmount": 20,
+          "maxAmount": 40
         }
       ]
     },
