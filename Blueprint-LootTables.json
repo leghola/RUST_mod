@@ -204,10 +204,6 @@
           "weight": 30.0
         },
         {
-          "definition": "Blueprint Fragments",
-          "weight": 5.0
-        },
-        {
           "definition": "Items.Uncommon",
           "weight": 10.0
         },
